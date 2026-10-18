@@ -1,0 +1,8 @@
+{
+  "name": "PG Manager Pro",
+  "description": "Comprehensive property management platform for Paying Guest accommodations. Manage rooms, floor maps, bookings, payments, and tenants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
